@@ -22,7 +22,7 @@
                         case 'password':
                         ?>
                             <div class="alert alert-danger">
-                                <strong>Erreur</strong> mot de passe incorrect
+                                <strong>Erreur</strong> mot de passe incorrect 
                             </div>
                         <?php
                         break;
